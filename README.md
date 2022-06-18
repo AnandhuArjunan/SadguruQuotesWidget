@@ -1,6 +1,6 @@
 # Sadguru Quotes Widget - Android 
 ## A simple quotes widget Application
-![Alt text](screenshots/DeveloperTools-logos-.jpg?raw=true "Logo")
+![Alt text](screenshots/logo.jpg?raw=true "Logo")
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
@@ -10,19 +10,19 @@ It is an Android Widget app that displays famous quotes by Sadguru [Indian Mysti
 .Sadhguru is famous worldwide for its Isha-foundation. He spread knowledge on yoga and well-being of folks. The Isha Foundation is the major establishment, through which he executes all his yoga programs, various social and community development activities.
 
 
-<img src="screenshots/android.png" style="height: 80px; width:450px;"/>
+<img src="screenshots/android.png" style="height: 80px; width:550px;"/>
 
 
 ## Screenshots
 
-![Alt text](screenshots/home.PNG?raw=true "Main Page")
 
-![Alt text](screenshots/tools1.PNG?raw=true "Tools Page")
-
-![Alt text](screenshots/tools2.PNG?raw=true "Tools Page")
-
-![Alt text](screenshots/tools3.PNG?raw=true "Tools Page")
-
+<p float="left">
+  <img src="screenshots/1.jpg" width="200" />
+  <img src="screenshots/2.jpg" width="200" /> 
+  <img src="screenshots/3.jpg" width="200" />
+       <img src="screenshots/4.jpg" width="200" /> 
+  <img src="screenshots/5.jpg" width="200" />
+</p>
 
 
 ## Planned Features
