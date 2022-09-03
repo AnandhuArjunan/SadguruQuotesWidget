@@ -36,7 +36,7 @@ It is an Android Widget app that displays famous quotes by Sadguru [Indian Mysti
 
 ## Tech
 
-App uses some libraries and Frameworks, it is nothing without them.
+App uses some libraries and Frameworks
 
 -[Color Picker By Dhaval] - https://github.com/Dhaval2404/ColorPicker
 
